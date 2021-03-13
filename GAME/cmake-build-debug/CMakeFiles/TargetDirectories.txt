@@ -1,0 +1,3 @@
+C:/Users/Tiny/Desktop/seconhand/GAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiny/Desktop/seconhand/GAME/cmake-build-debug/CMakeFiles/INSAGAME.dir
+C:/Users/Tiny/Desktop/seconhand/GAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir

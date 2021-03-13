@@ -1,0 +1,138 @@
+Compte-rendus de réunions
+
+Projet de Langage C - 3 EII A
+ ¤ CABANTOUS Corto
+ ¤ HA Le Bao Tin
+ ¤ KORUCAN Kaan
+ ¤ LE BAS--CARLEZ Lucile
+
+
+
+
+
+*****Réunion du 18/01/2021 à 14h40*****
+
+Présentation rapide du projet :
+
+ATTENTES ET ÉVALUATION
+Compte-rendus à réaliser après chaque réunion.
+Évaluation de l’implication et de l’ambition (difficulté visée, idées supplémentaires) et évidemment du bon fonctionnement du rendu final.
+
+DOXYGEN
+Utilisation de Doxygen pour la documentation
+ - WARN_AS_ERROR => warnings deviennent des erreurs
+ - WARN_IF_UNDOCUMENTED => warning si le code n'est pas documenté) 
+
+TESTS
+Faire des tests des unitaires
+Vérification fuite mémoire
+
+CONTRAINTES
+Modèle Vue Contrôleur
+ - Modèle : tout ce qui fait les calculs
+ - Vue : tout ce qui lié à l'affichage
+ - Contrôleur : point d'entrée du programme, boucle infini qui attend un clic par exemple
+Utiliser Git
+
+INFOS SUPPLEMENTAIRES 
+Intégration continue sur Git 
+CMake pour générer un Makefile 
+Droit de modulation des notes en fct de l'investissement
+
+--> À faire pour la prochaine réunion :
+Clarifier le sujet, envoyer un mail à Karol DESNOS
+Aller le plus proche possible d'un cahier des charges
+4 à 5 versions pour le cahier des charges
+
+--> À faire :
+Diagramme de Gantt (12 février) (faire des tâches unitaires simples), semblable à un rétro-planning.
+À la fin de chaque version, laisser du temps pour la gestion des imprévus.
+
+Création du serveur Discord et du Google Drive déjà faits
+On peut utiliser le calendrier de Zimbra pour programmer des réunions
+Ne pas hésiter à poser des questions
+
+=> Prochaine réunion avec l'enseignant : lundi 8 février à 11h10
+
+
+
+
+*****Réunion du 28/01/2021 à 13h30*****
+
+Brainstorming, choix du sujet
+Création du projet sur GitLab
+
+=> Prochaine réunion de l'équipe : jeudi 4 février à 13h
+
+
+
+
+*****Réunion du 04/02/2021 à 13h*****
+
+Détail des versions et début du diagramme de Gantt
+
+=> Prochaine réunion de l'équipe : jeudi 11 février à 16h
+
+
+
+
+*****Réunion du 08/02/2021 à 11h10*****
+
+DIAGRAMME DE GANTT
+Mettre des couleurs différentes (Modèle/Vue/Contrôleur)
+Faire des tâches simples
+Mettre les actions dans le modèle et non dans le contrôleur
+
+REPARTITION DES ROLES
+2 personnes pour la vue, 2 personnes pour le modèle, se répartir les tâches liées au contrôleur
+
+--> À faire : Finaliser le diagramme de Gantt pour le 12 février.
+
+=> Prochaine réunion avec l'enseignant : lundi 15 février à 11h15
+
+
+
+
+*****Réunion du 11/02/2021 à 16h*****
+
+Finalisation du diagramme de Gantt
+
+=> Prochaine réunion de l'équipe : jeudi 18 février à 13h30
+
+
+
+
+*****Réunion du 15/02/2021 à 11h15*****
+
+REPARTITION DES TACHES
+ - Vue : Tin et Kaan
+ - Modèle : Corto et Lucile
+
+BRANCHES
+ - master : correspond aux versions
+ - dev : intégration du développement en cours (version en cours). Correspond à vue + dev lorsqu'ils sont stables. C'est un clône de master avec les modifications en cours.
+ - vue : intégration des modifications liées à la vue
+ - modele : intégration des modifications liées au modèle
+Pour le controleur, plusieurs options : une branche séparée ou directement dans vue/modele
+
+=> Prochaine réunion avec l'enseignant : lundi 8 mars à 13h30
+
+
+
+
+*****Réunion du 18/02/2021 à 13h30*****
+
+Répartiton du travail dans chaque sous-équipe
+Mise en accord sur les normes (position personnage etc) entre les 2 sous-équipes
+
+=> Prochaine réunion de l'équipe : jeudi 25 février à 13h30
+
+
+
+
+*****Réunion du 25/02/2021 à 13h30*****
+
+Matrice fonctionnelle opérationnelle
+Fonctions d'initialisation en cours.
+
+=> Prochaine réunion de l'équipe : 
